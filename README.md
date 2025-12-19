@@ -1,30 +1,7 @@
-# Ritesh Narayan Shah | Ritesh Prasad Sah - Portfolio
+# Ritesh Prasad Sah - Portfolio
 
 A professional 3D animated portfolio website showcasing projects, skills, and experience. Optimized for SEO to rank top in Google searches.
 
-## 🚀 SEO Optimized
-
-This portfolio is fully optimized for search engines with:
-- ✅ Comprehensive meta tags (Open Graph, Twitter Cards)
-- ✅ Structured Data (JSON-LD Schema)
-- ✅ Sitemap.xml for search engines
-- ✅ Robots.txt for crawler guidance
-- ✅ Optimized for "Ritesh Narayan Shah" and "Ritesh Prasad Sah"
-- ✅ Local SEO (Kharar, Punjab)
-- ✅ Contact information in meta tags (Phone: 9234670937)
-- ✅ Social media integration
-- ✅ Fast loading and mobile-responsive
-
-## Setup
-
-1. **Add Profile Picture**: 
-   - Place your profile picture in the root directory as `profile.jpg`
-   - Supported formats: JPG, PNG, WebP
-   - Recommended size: 400x400px or larger (square aspect ratio)
-
-2. **Open in Browser**:
-   - Simply open `index.html` in your web browser
-   - Or use a local server for better performance
 
 ## Features
 
@@ -94,3 +71,4 @@ The portfolio is optimized for these search terms:
 - Update content in HTML files
 - Modify colors in `styles.css` (CSS variables at the top)
 - Adjust animations and interactions in `script.js`
+
