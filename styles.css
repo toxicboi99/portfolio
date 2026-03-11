@@ -684,8 +684,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .card__image {
-	width: 100% !important;
-	height: 420px !important;
+	width: auto !important;
+	height: auto !important;
 	object-fit: cover;
 	border-radius: 0;
 	transition: transform 0.5s ease;
@@ -3185,5 +3185,6 @@ body {
 		margin-bottom: 24px;
 	}
 }
+
 
 
