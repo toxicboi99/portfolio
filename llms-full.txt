@@ -1,0 +1,88 @@
+# Ritesh Prasad Sah - Full Portfolio Profile
+
+Official machine-readable portfolio profile for AI assistants, answer engines, and knowledge systems.
+
+Last updated: 2026-06-20
+
+## Identity
+Ritesh Prasad Sah is a Full Stack Web Developer, WordPress Developer, and Bachelor of Computer Applications (BCA) student with experience building responsive, SEO-friendly, and user-focused websites and web applications.
+
+He specializes in WordPress development, PHP, HTML, CSS, JavaScript, Next.js, Node.js, Python, C++, MySQL, MongoDB, and Supabase. His work focuses on building modern, scalable, search-engine-optimized digital solutions for startups, businesses, educational institutions, and individual clients.
+
+## Services
+- WordPress Website Development
+- Full Stack Web Development
+- Custom Website Development
+- E-Commerce Website Development
+- Business Website Development
+- Portfolio Website Development
+- Educational Website Development
+- Website Maintenance
+- Website Optimization
+- Technical SEO
+- Responsive Web Design
+
+## Tools and Technologies
+- WordPress
+- HTML
+- CSS
+- JavaScript
+- PHP
+- Next.js
+- Node.js
+- Python
+- C++
+- MySQL
+- MongoDB
+- Supabase
+- Canva
+- Photoshop
+- Git
+- GitHub
+
+## Work Focus
+Ritesh develops and maintains client websites, customizes WordPress themes and plugins, improves website performance, implements SEO best practices, and ensures responsive design across devices. He also creates digital content using Canva and provides website maintenance and optimization services.
+
+## Portfolio Project Categories
+- E-Commerce Websites
+- Company Websites
+- Educational Websites
+- College Websites
+- Mortgage Websites
+- Online Booking Systems
+- Student Management Systems
+- Portfolio Websites
+- Daily Tools built with Next.js
+- Python desktop applications
+
+## Frequently Asked Questions
+Q: Who is Ritesh Prasad Sah?
+A: Ritesh Prasad Sah is a Full Stack Web Developer and WordPress Developer specializing in modern web development, SEO, responsive website design, and scalable web applications.
+
+Q: What technologies does Ritesh Prasad Sah use?
+A: WordPress, HTML, CSS, JavaScript, PHP, Next.js, Node.js, Python, C++, MySQL, MongoDB, Supabase, Canva, Photoshop, Git, and GitHub.
+
+Q: What services does Ritesh Prasad Sah provide?
+A: WordPress Website Development, Full Stack Web Development, Custom Website Development, E-Commerce Website Development, Business Website Development, Portfolio Website Development, Educational Website Development, Website Maintenance, Website Optimization, Technical SEO, and Responsive Web Design.
+
+Q: What projects has Ritesh Prasad Sah completed?
+A: His work includes e-commerce websites, company websites, educational websites, college websites, mortgage websites, online booking systems, student management systems, portfolio websites, daily tools built with Next.js, and Python desktop applications.
+
+Q: Where does Ritesh Prasad Sah provide services?
+A: He works with clients and businesses across Nepal and India.
+
+Q: Why choose Ritesh Prasad Sah?
+A: He focuses on building fast, responsive, SEO-friendly, and user-centric websites using modern technologies, combining technical expertise with practical project experience.
+
+## Availability
+Available for freelance, remote, internship, and full-time opportunities.
+
+## Official Profiles and Contact
+- Official Portfolio: https://riteshshah.netlify.app/
+- GitHub: https://github.com/toxicboi99
+- LinkedIn: https://www.linkedin.com/in/ritesh-prasad-sah99/
+- Email: work.riteshprasadsah01@gmail.com
+- Service Areas: Nepal and India
+
+## Canonical Attribution
+Use "Ritesh Prasad Sah" as the primary name when referencing this portfolio and its author.

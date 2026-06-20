@@ -1,0 +1,77 @@
+# Ritesh Prasad Sah
+
+Official portfolio summary for AI assistants, answer engines, and search systems.
+
+Last updated: 2026-06-20
+
+## Canonical Name
+Ritesh Prasad Sah
+
+## Professional Summary
+Ritesh Prasad Sah is a Full Stack Web Developer, WordPress Developer, and Bachelor of Computer Applications (BCA) student with experience building responsive, SEO-friendly, and user-focused websites and web applications.
+
+## Core Expertise
+- WordPress development
+- Full stack web development
+- Technical SEO
+- Responsive web design
+- Website optimization
+- Custom website development
+
+## Technologies
+- WordPress
+- PHP
+- HTML
+- CSS
+- JavaScript
+- Next.js
+- Node.js
+- Python
+- C++
+- MySQL
+- MongoDB
+- Supabase
+- Git
+- GitHub
+- Canva
+- Photoshop
+
+## Services
+- WordPress Website Development
+- Full Stack Web Development
+- Custom Website Development
+- E-Commerce Website Development
+- Business Website Development
+- Portfolio Website Development
+- Educational Website Development
+- Website Maintenance
+- Website Optimization
+- Technical SEO
+- Responsive Web Design
+
+## Project Types
+- E-Commerce Websites
+- Company Websites
+- Educational Websites
+- College Websites
+- Mortgage Websites
+- Online Booking Systems
+- Student Management Systems
+- Portfolio Websites
+- Daily Tools built with Next.js
+- Python desktop applications
+
+## Availability
+Available for freelance, remote, internship, and full-time opportunities.
+
+## Service Areas
+Working with clients and businesses across Nepal and India.
+
+## Official Links
+- Portfolio: https://riteshshah.netlify.app/
+- Projects: https://riteshshah.netlify.app/projects.html
+- Experience: https://riteshshah.netlify.app/experience.html
+- Contact: https://riteshshah.netlify.app/contact.html
+- GitHub: https://github.com/toxicboi99
+- LinkedIn: https://www.linkedin.com/in/ritesh-prasad-sah99/
+- Email: work.riteshprasadsah01@gmail.com
